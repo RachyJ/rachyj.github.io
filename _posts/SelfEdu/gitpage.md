@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 谈谈刚需和360影视
+title: create github pages site
 category: selfedu
 description: 一个看起来很简单的需求，做起来真的有那么困难吗，到底是怎么回事？
 ---
@@ -12,7 +12,7 @@ description: 一个看起来很简单的需求，做起来真的有那么困难�
 2. fork to your github account
 3. update settings | repository name to <your github name>.github.io
 4. try <your github name>.github.io
-5. clone repository to your local disk
+5. update info in file '_config.yml'
 6. update info on "_layouts | default.html", replace "ishanshan" to your info
 
     <meta name="author" content="ishanshan" />
