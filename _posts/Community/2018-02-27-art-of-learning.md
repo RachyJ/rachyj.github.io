@@ -1,7 +1,9 @@
+---
 layout: post
 title: 读《学习之道》
 category: community
 description: 终身学习的艺术
+---
 
 ## 关于作者
 
