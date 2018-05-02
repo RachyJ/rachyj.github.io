@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读《好好学习》
-category: community
+category: selfedu
 description: 个人知识管理精进指南
 ---
 
