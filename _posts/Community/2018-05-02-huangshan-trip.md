@@ -19,6 +19,7 @@ description: 2018五一黄山徽州自驾游
 *河边的木质吊脚楼*
 
 ![](http://p319p95sa.bkt.clouddn.com/IMG_2888.JPG)
+![](http://p319p95sa.bkt.clouddn.com/IMG_2885.JPG)
 *建于唐代的渔梁坝，用清一色的坚石垒砌*
 
 ![](http://p319p95sa.bkt.clouddn.com/IMG_2892.JPG)
