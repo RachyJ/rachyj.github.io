@@ -120,8 +120,6 @@ description: 灵隐寺、法云安缦、天竺
 
 ![](http://p319p95sa.bkt.clouddn.com/linyin/butterfly41.jpg?imageMogr2/size-limit/2000k!)
 
-![](http://p319p95sa.bkt.clouddn.com/linyin/butterfly31.png?imageMogr2/size-limit/2000k!)
-
 清澈的渠水一路蜿蜒
 
 ![](http://p319p95sa.bkt.clouddn.com/linyin/qushui1.jpg?imageMogr2/size-limit/2000k!)
