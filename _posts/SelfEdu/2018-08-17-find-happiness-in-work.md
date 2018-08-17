@@ -5,8 +5,6 @@ description: 读「How will you measure your life」
 category: selfedu
 ---
 
-# 如何在工作中找到幸福 — 读「How will you measure your life」
-
 ## 关于作者
 
 克莱顿.克里斯坦森（Clayton M. Christensen）：
