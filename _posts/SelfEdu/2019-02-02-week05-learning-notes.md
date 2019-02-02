@@ -16,11 +16,11 @@ DRY 原则: Don't repeat yourself！
 
 每个人都有可以贡献的东西。技术是相对容易的部分，难的是让员工认识到他们知道的一些对别人有价值的知识并愿意分享，同时认识到别人的一些知识对自己也有帮助，模仿并借用。
 
-知道的人通常不能意识到他知道某个知识，而不知道的人通常不知道他需要某个知识，所以需要一个有效的学习识别过程（采访，汇报，回顾与反思，学习历史或evaluation)，让关键知识得以传递。 
+知道的人通常意识不到他知道某个知识，而不知道的人通常不知道他需要某个知识，所以需要一个有效的学习识别过程（采访，汇报，回顾与反思等)，让关键知识得以传递。 
 
 知识无法「管理」，但组织可以创建一种文化和流程来鼓励大家分享他们所知道的东西。知识管理的核心是一个社会或文化中的行为变化以及人们之间的相互连接，需要将学习和应用知识的习惯有效融入到组织的文化和工作实践，使之持续发展。
 
-4种学习策略:
+按形式（正式/非正式）以及连接对象（人/内容），可以分为4种学习策略:
 
 ![](https://rachyj.github.io/images/learning-approaches.png)
 
@@ -40,14 +40,16 @@ DRY 原则: Don't repeat yourself！
 
 相关的角色：
 
-- 中心点：某地的社群代表;广泛了解社区内的所有流程;被视为知识的渠道，并充当内容的过滤器;由他们传播知识并向作者提供反馈
-- 守门人：社区领导者，可能是过去的中心点。
+- 中心点：某地的社群代表;广泛了解社区内的所有流程，被视为知识的渠道，并充当内容的过滤器，由他们传播知识并向作者提供反馈
+- 守门人：社群领导者
 
 流程：
 
 - 当有新的内容提交时，守门人获得自动通知
 - 守门人与相关主题的专家审核内容
 - 新的最佳实践被传递给中心点，与相关的人分享，尝试让大家接受
+
+这个流程可以借鉴。
 
 > If it can be measured it can be improved. -- Henry Ford, founder, Ford Motor Company
 
@@ -76,6 +78,8 @@ KM里经常提到Community of practice.
 
 知识社区/实践社区成功的关键在于热情，这个团队是否有相互分享和帮助的文化，对新知识的热情，以及对不断进步的热情。
 
+-> 可以先带动部分积极分子带动。
+
 ### 经验总结模板：
 
 - context 背景 （故事可以提供有效的背景和上下文信息）
@@ -86,21 +90,21 @@ KM里经常提到Community of practice.
     - fixing a problem
     - investigating further
     - documenting a procedure or process
-    - operational procedures
-    - ‘doctrine’
-    - guidelines
-    - checklists
-    - best practice
-    - technical standards
-    - training materials
-    - case studies
-    - ‘tips and hints’
-    - FAQs.
-- updating a documented procedure or process 更新已有流程
-- updating a training course, other training or e-learning material 更新已有的培训材料或课程
-- circulating the lesson for others to decide on an action 将信息传递给别人用于决策
+      - operational procedures
+      - ‘doctrine’
+      - guidelines
+      - checklists
+      - best practice
+      - technical standards
+      - training materials
+      - case studies
+      - ‘tips and hints’
+      - FAQs
+  - updating a documented procedure or process
+  - updating a training course, other training or e-learning material 
+  - circulating the lesson for others to decide on an action 
 
-另一个简单的模板 - 用SKS三个问题来获取有效反馈或回顾会：
+另一个简单的模板 - 用SKS（stop, keep, start）三个问题来获取有效反馈或回顾会：
 
 - What should I stop doing?
 - What should I keep doing?
@@ -125,7 +129,7 @@ R.A. Dalton 写的一个KM manager的任务列表，觉得挺有借鉴意义的�
 
 > 要讨论领导，我们必须认识到领导的基本问题和人生的基本问题没有什么不同。 --詹姆斯 马奇
 
-马奇在「论领导力」中，创造性地通过解读经典文学作品来理解领导力，赏析领导力，从而创造性地理解领导力的张力，对生活的观察与隐喻之间的张力。
+马奇在「论领导力」中，创造性地通过解读经典文学作品来理解领导力。
 
 马奇认为领导的基本问题就是人生的基本问题，而伟大的文学作品很多体现了人生的基本问题。伟大的文学作品可以从很高的视角进行解读，并且没有唯一的答案。
 
@@ -136,6 +140,7 @@ R.A. Dalton 写的一个KM manager的任务列表，觉得挺有借鉴意义的�
 
 有效的领导有同时生活在两个世界的能力：充满想象、虚构、梦寐的幻想世界以及充满计划、规划、务实行动的秩序世界。
 
+务实与梦想，管道与诗歌，如何把握平衡是门艺术。
 
 ## 笨办法学写作
 
@@ -156,7 +161,7 @@ R.A. Dalton 写的一个KM manager的任务列表，觉得挺有借鉴意义的�
 - 设置固定的写作时间，让灵感倾泻而出
 - 临时在纸质卡片上写下的关键词和符号，在48小时内及时整理，以免遗忘
 
-《麦肯锡教我的写作武器》写幻灯片的步骤：
+《麦肯锡教我的写作武器》写幻灯片的步骤，下次可以借鉴和尝试：
 
 1. 快速写卡片
 2. 按图排列卡片
