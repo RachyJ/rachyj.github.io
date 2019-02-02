@@ -7,9 +7,9 @@ description: 学习周报05
 
 习惯养成：每周回顾记录的信息卡片，做个小总结与沉淀。
 
-## RYR 原则
+## DRY 原则
 
-DYR 原则: Don't repeat yourself！
+DRY 原则: Don't repeat yourself！
 
 
 ## Knowledge Management
@@ -230,9 +230,9 @@ R.A. Dalton 写的一个KM manager的任务列表，觉得挺有借鉴意义的�
 
 > 他的作品反映了“世界的混沌性和文学的非现实感”。他最著名的短篇集《虚构集》（1944）和《阿莱夫》（1949）中就汇集了很多共同的主题：梦、迷宫、图书馆、虚构的作家和作品、宗教、神祇。他的作品对幻想文学贡献巨大。研究者们也注意到博尔赫斯不断恶化的眼疾似乎有助于他创造性的文学语言，毕竟，“诗人，和盲人一样，能暗中视物”。
 
-### If I could live again
+读博尔赫斯在85岁回顾自己的一生写下的诗 -
 
-读博尔赫斯在85岁回顾自己的一生写下的诗歌。
+### If I could live again
 
 If I could live again my life,
 
