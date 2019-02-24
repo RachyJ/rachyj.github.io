@@ -17,10 +17,32 @@ Pull则更有目的性，有需要才去学。
 
 这两种策略各有其优缺点。
 
-|      | Push                                     | Pull                                     |
-| ---- | ---------------------------------------- | ---------------------------------------- |
-| pros | * has long shelf-life that go beyond the limits of human memory  <br />* documented knowledge can be re-used by many people  <br />* knowledge can grow into a organizational KM tree <br />* can reach people who didn't even know they need it  <br />* might be usable in future | * more receptive to knowledge when they actually need it<br />* more effective knowledge transfer  <br />* can be used immediately  cuts waste |
-| cons | * could  increase noise<br />* doesn't necessarily answer the questions of the user  <br />* can go out of date as circumstances change | * when in a rush for a decision, we are less discerning about the knowledge quality  <br />* tends to draw on tacic knowledge, which is biased by the unreliability of long term memory and the availability bias  <br />* you may miss out what is old and established  <br />knowledge of infrequent activity becomes lost |
+### Push - Just-in-case knowledge:
+
+**pros**:
+- has long shelf-life that go beyond the limits of human memory
+- documented knowledge can be re-used by many people
+- knowledge can grow into a organizational KM tree
+- can reach people who didn't even know they need it
+- might be usable in future
+  
+**cons**:
+- increase noise
+- doesn't necessarily answer the questions of the user
+- can go out of date as circumstances change
+
+### Pull - just-in-time knowledge
+
+**pros**:
+- more receptive to knowledge when they actually need it
+- more effective knowledge transfer
+- can be used immediately
+- cuts waste 
+**cons**:
+- when in a rush for a decision, we are less discerning about the knowledge quality
+- tends to draw on tacic knowledge, which is biased by the unreliability of long term memory and the availability bias
+- you may miss out what is old and established
+- knowledge of infrequent activity becomes lost
 
 
 
