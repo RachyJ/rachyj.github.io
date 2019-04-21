@@ -58,11 +58,13 @@ Spend more time near trees -- this will make you happier.
 
 [History of Technology: 1971-present time](https://www.timetoast.com/timelines/history-of-technology-1971-present)
 
-![](../../_site/images/201904/tech-history.png)
+![](https://rachyj.github.io/images/201904/tech-history.png)
 
 [How Technologies Are Connected](https://insights.stackoverflow.com/survey/2019#technology-_-how-technologies-are-connected​)
 
 StackoverFlow对将近90,000程序员的调研报告其中一项是各种技术之间的关联，存下来作为一个map，建立概念框架。
+
+![](https://rachyj.github.io/images/201904/tech-connections.png)
 
 Web server for Chrome
 
