@@ -48,7 +48,7 @@ description: 学习周报15
 
 > We all play roles in life. Some have more lines than others, some get more stage time than others, but everyone can be a role model for their values, priciples, and beliefs. When performed with compassion and enthusiasm, any job can shift the hearts and minds of the people it touches.  -- James Clear
 
-Live with compassion and enthusiasm!
+Live with compassion and enthusiasm! 
 
 > Exhaust your gifts and you can always walk away at peach with yourself and the difference you have made.
 
@@ -75,9 +75,9 @@ Web server for Chrome
 
 A 3rd option besides Manager days and Maker days -- Flow days.
 
-- Manager days: spent in tiny chunks bouncing between meetings, emails, and small tasks
-- Maker days: contain long periods of time set aside for creative exercises like writing or coding
-- Flow days:
+- **Manager days**: spent in tiny chunks bouncing between meetings, emails, and small tasks
+- **Maker days**: contain long periods of time set aside for creative exercises like writing or coding
+- **Flow days**
 
 There are two main sources of distractions in our lives according to Daniel Goleman:
 
