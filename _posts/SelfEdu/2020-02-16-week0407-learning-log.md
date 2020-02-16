@@ -44,8 +44,8 @@ description: 学习周报2020 week04-07
 
 ## Resources & recommendation
 
-[中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
+- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
-[上帝的手术刀：基因编辑简史](https://book.douban.com/subject/27025492/): 一本有趣、有料的科普书。看科学家们如何孜孜求索地球生物世代遗传的奥秘，从模糊的日常观察、神秘的哲学理论，到一种具体的化学物质、一个精妙的生物繁衍过程。科学探索的过程和侦探小说一样有趣。
+- [上帝的手术刀：基因编辑简史](https://book.douban.com/subject/27025492/): 一本有趣、有料的科普书。看科学家们如何孜孜求索地球生物世代遗传的奥秘，从模糊的日常观察、神秘的哲学理论，到一种具体的化学物质、一个精妙的生物繁衍过程。科学探索的过程和侦探小说一样有趣。
 
-[简读中国史：世界史坐标下的中国](https://book.douban.com/subject/34501169/)：在世界史背景下，更能看清中国的历史发展路径和特点。 和一般叙事事实的史书不同，这本书里有很多对比、参照、思考，这大概才是 ‘读史使人明智’ 的路径。
+- [简读中国史：世界史坐标下的中国](https://book.douban.com/subject/34501169/)：在世界史背景下，更能看清中国的历史发展路径和特点。 和一般叙事事实的史书不同，这本书里有很多对比、参照、思考，这大概才是 ‘读史使人明智’ 的路径。
