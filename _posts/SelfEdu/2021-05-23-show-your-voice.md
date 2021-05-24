@@ -9,9 +9,7 @@ description: How to better show your work & ideas
 
 怕言之无物，近段时间没有定时输出，想着有好的想法再写吧。但一直输入没有输出，会有壅塞之感；而少了输出，也少了一些写作中获得的思考和灵感以及继续探索一些主题的契机和动力。
 
-最近读了几本书，关于书写和输出有了一些新的启发。
-
-以此契机，重新梳理了自己的智识生产系统。
+最近读了几本书，关于书写和输出有了一些新的启发和动力。
 
 ## 素材系统
 
@@ -29,7 +27,9 @@ description: How to better show your work & ideas
 
 而经常整理素材可以让创作的过程更高效。
 
-![image](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/finland-library.jpg)
+![芬兰图书馆的拼图](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/finland-library.jpg)
+
+（在赫尔辛基逛图书馆遇到未完成的拼图）
 
 我目前用印象笔记管理素材，各处搜集的信息都会汇总到笔记中，包含读书摘录 (Kindle、微信阅读、纸质书），博客，公众号等。
 
@@ -45,7 +45,7 @@ description: How to better show your work & ideas
 
 《读库》里一篇文章写道在读纸质书时，会激发更多身体的感知系统，大脑能接受到更多的信息。
 
-「一本书如同一座建筑」，浏览目录是在大脑里建立一副认知地图 -- 书的三维空间里以章节为单位的信息结构方式。同时，触觉和运动觉也会参与进来。我们用双手探索一本书，章节在书中有其固定的物理位置。阅读的过程中，两只手拿捏的书页厚度以及重量会发生变化，这些物理信息经验眼睛、皮肤和肌肉的感知，构成定位章节在书中所处位置的线索。
+「一本书如同一座建筑」，浏览目录是在大脑里建立一副认知地图 -- 书的三维空间里以章节为单位的信息结构方式。同时，触觉和运动觉也会参与进来。我们用双手探索一本书，章节在书中有其固定的物理位置。阅读的过程中，两只手拿捏的书页厚度以及重量会发生变化，这些物理信息经由眼睛、皮肤和肌肉的感知，构成定位章节在书中所处位置的线索，而这些电子书没办法给予。
 
 有些需要认真看的书，通过手机或kindle浏览后发现不错，会买纸质书来看。
 
@@ -56,6 +56,8 @@ description: How to better show your work & ideas
 Austin 指出在纸上写写画画比在电脑上更容易激发灵感和理清思路。  
 
 ![digital and analog desks](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/digital-analog-desk.png)
+
+（Austin Kleon's digital and analog desks）
 
 ## 最小故事
 
@@ -73,6 +75,8 @@ Austin 指出在纸上写写画画比在电脑上更容易激发灵感和理清�
 
 ![飞屋环游记的故事板之一](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/storyboard_up-01.jpg)
 
+(飞屋环游记的故事板之一)
+
 ### 纳博科夫的卡片
 
 纳博科夫是二十世纪公认的杰出小说家和文体家，他喜欢用卡片进行创作。
@@ -82,6 +86,8 @@ BBC 电视台采访（1962）
 >纳博科夫：我现在发现索引卡片真的是进行写作的绝佳纸张，我并不从开头写起，一章接一章地写到结尾。我只是对画面上的空白进行填充，完成我脑海中相当清晰的拼图玩具，这儿取出一块，那儿取出一块，拼出一角天空，再拼出山水景物，再拼出 —— 我不知道,也许是喝得醉醺醺的猎手。
 
 ![index card](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/index-card.png)
+
+(纳博科夫的卡片)
 
 学习了阳志平老师的认知写作学课程后，卡片也成为我记录和写作的趁手工具，这篇文章也是源自四张潦草的手写卡片。 
 
@@ -97,7 +103,7 @@ Bernadette Jiwa 在 *What great storytellers know* 分享了很多小故事，�
 
 写作障碍之三：觉得自己写的东西太普通了，没什么价值。
 
-订阅了一些个人博客，每次看到更新时内心会有感动，比如开始于2006年Brain Pickings。在 social media 流行的时代，能静下来心来读长文的人越来越少，而能坚持写博客的更为难得。
+订阅了一些个人博客，比如开始于2006年Brain Pickings，每次看到更新时都会感动。在 social media 流行的时代，能静下心来读长文的人越来越少，而能坚持写博客的更为难得。
 
 > Brain Pickings was born on October 23, 2006, as a short email to seven friends. Seven years and several incomprehensible million readers into its existence, I began what has since become an annual tradition — a distillation of the most important things I have learned about living while reading and writing my way through life; private learnings offered in the public commons, in the hope that these thoroughly subjective insights of a single consciousness might be of succor or salve to another. It is the only overtly personal writing I do on Brain Pickings. (Though, of course, the whole of it remains a deeply personal exercise in processing my own life and annealing my own ideas through the lives and ideas I celebrate in writing.) - Maria Popova, [Essential Life-Learnings from 14 Years of Brain Pickings](https://www.brainpickings.org/2020/10/21/14-years-of-brain-pickings/) 
 
@@ -115,7 +121,7 @@ Austin Kleon 在 *Show Your Work!: 10 Ways to Share Your Creativity and Get Disc
 
 > Productive writers don’t have special gifts or special traits﻿—they just write more regularly and use their writing time more efficiently. - Paul J. Silvia, How to Write a Lot
 
-很多时候试图找个一个最佳节奏，但也许如同健身一样，并没有一个所谓最好的节奏，只有最适合你、你最能坚持的节奏。
+很多时候试图找到一个最佳节奏，但也许如同健身一样，并没有一个所谓最好的节奏，只有最适合你、你最能坚持的节奏。
 
 而养成一个习惯，在特定的时间、在特定的位置，有趁手的纸笔和工具，便能较好地进入创作状态。
 
