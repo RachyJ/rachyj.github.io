@@ -29,7 +29,7 @@ description: How to better show your work & ideas
 
 而经常整理素材可以让创作的过程更高效。
 
-![image](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/finland-library.png)
+![image](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/make-your-voice/finland-library.jpg)
 
 我目前用印象笔记管理素材，各处搜集的信息都会汇总到笔记中，包含读书摘录 (Kindle、微信阅读、纸质书），博客，公众号等。
 
@@ -124,17 +124,17 @@ Keep on the work, to express yourself and make your voice.
 
 ## Related reading
 
-- 7 of Pixar’s Best Storyboard Examples and the Stories Behind Them | Boords 2021. https://boords.com/blog/7-of-pixars-best-storyboard-examples-and-the-stories-behind-them
+- 7 of Pixar’s Best Storyboard Examples and the Stories Behind Them. https://boords.com/blog/7-of-pixars-best-storyboard-examples-and-the-stories-behind-them
 
 - Austin Kleon. 2011From the Desk Of... http://fromyourdesks.com/2011/05/19/austin-kleon/
 
-- Jiwa, Bernadette 2020What Great Storytellers Know: Seven Skills to Become Your Most Influential and Inspiring Self. Page Two.
+- Jiwa, Bernadette 2020 What Great Storytellers Know: Seven Skills to Become Your Most Influential and Inspiring Self. Page Two.
 
-- Kleon, Austin 2012Steal Like an Artist: 10 Things Nobody Told You About Being Creative. 1st edition. New York: Workman Publishing.
+- Kleon, Austin 2012 Steal Like an Artist: 10 Things Nobody Told You About Being Creative. 1st edition. New York: Workman Publishing.
 
-- 2014Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered. Illustrated edition. New York, NY: Workman Publishing Company.
+- 2014 Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered. Illustrated edition. New York, NY: Workman Publishing Company.
 
-- Silvia, Paul J. 2018How to Write a Lot: A Practical Guide to Productive Academic Writing. Second edition. Washington, DC: APA LifeTools.
+- Silvia, Paul J. 2018 How to Write a Lot: A Practical Guide to Productive Academic Writing. Second edition. Washington, DC: APA LifeTools.
 
 - 威廉•津瑟 2013写作法宝. https://book.douban.com/subject/25717756/
 
