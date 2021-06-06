@@ -7,6 +7,8 @@ description: 人如何受他人影响以及如何影响他人
 
 最近看了几本社会心理学相关的书，从一个新的角度进一步理解了人这个物种。
 
+![social people](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/210606/people-4937226_1920.jpg)
+
 ## 关于社会心理学
 
 什么是社会心理学？社会心理学研究什么？研究过程如何？
@@ -49,7 +51,7 @@ description: 人如何受他人影响以及如何影响他人
 
 临时小组尚且如此，长久形成的不同团队之间意见难统一的问题更甚。
 
-> 人类是如此自然地倾向于将世界划分为**我们和他们**，以至于即使在群体成员构成是基于微不足道甚至毫无意义差异的情况下，也会出现**群体偏见**。 ……在一次又一次的学习中，仅仅根据小组的分配，参与者便会更加喜欢那些和他们有相同标签的人。-- Aronson, Elliot， 社会性动物.
+> 人类是如此自然地倾向于将世界划分为**我们和他们**，以至于即使在群体成员构成是基于微不足道甚至毫无意义差异的情况下，也会出现**群体偏见**。 ……在一次又一次的学习中，仅仅根据小组的分配，参与者便会更加喜欢那些和他们有相同标签的人。-- Aronson, Elliot， 社会性动物。
 
 为什么我们倾向于基于如此细微的差别作出如此巨大的区分？艾略特言 --
 
@@ -85,7 +87,7 @@ description: 人如何受他人影响以及如何影响他人
 
 艾略特·阿伦森在《绝非偶然》中提到了一个例子：
 
-> 我的一个朋友带她3岁的女儿去公园玩，给了她一些贴纸。另一个小女孩走近她们。  
+> 我的一个朋友带她 3 岁的女儿去公园玩，给了她一些贴纸。另一个小女孩走近她们。  
 > 「你不想把你的贴纸给那个小女孩玩吗？」我的朋友问。   
 > 孩子思考了一会儿说道：「妈妈，那个小女孩不喜欢贴纸。」  
 
@@ -111,7 +113,7 @@ description: 人如何受他人影响以及如何影响他人
 
 这其中还涉及「外在理由」的强弱。实验表明 -
 
-> 为了少许酬赏而撒谎的人，远远比为了丰厚酬赏而撒谎的人更相信自己的谎话。因为后者有相当充分的撒谎理由：“我为了20美元而说谎，值了。”前者则感觉心理失衡：“为什么我会为了区区美元就说谎？我必须相信这不是谎言。
+> 为了少许酬赏而撒谎的人，远远比为了丰厚酬赏而撒谎的人更相信自己的谎话。因为后者有相当充分的撒谎理由：“我为了 20 美元而说谎，值了。”前者则感觉心理失衡：“为什么我会为了区区美元就说谎？我必须相信这不是谎言。
 
 后者会进行内在的自我说服以及合理化。这比外在直接的说服更持久，能引起更长久的态度改变。
 
@@ -121,12 +123,12 @@ description: 人如何受他人影响以及如何影响他人
 
 ## Related reading
 
-Aronson, Elliot. 绝非偶然. Translated by 沈捷, 浙江人民出版社, 2012. Douban, https://book.douban.com/subject/19949881/.
+Aronson, Elliot. 绝非偶然。Translated by 沈捷，浙江人民出版社，2012. Douban, https://book.douban.com/subject/19949881/.
 
-Aronson, 埃利奥特·阿伦森Elliot. 社会性动物. Translated by 邢占军, 华东师范大学出版社, 2007. Douban, https://book.douban.com/subject/2328458/.
+Aronson, 埃利奥特·阿伦森 Elliot. 社会性动物。Translated by 邢占军，华东师范大学出版社，2007. Douban, https://book.douban.com/subject/2328458/.
 
-Festinger, 费斯汀格. 认知失调理论. 1999. Douban, https://book.douban.com/subject/1551556/.
+Festinger, 费斯汀格。认知失调理论。1999. Douban, https://book.douban.com/subject/1551556/.
 
 Tavris, Carol, and Elliot Aronson. Mistakes Were Made. Mariner Books, 2008. Douban, https://book.douban.com/subject/3287264/.
 
-戈登·奥尔波特. 偏见的本质. Translated by 凌晨, 后浪丨九州出版社, 2020. Douban, https://book.douban.com/subject/35220441/.
+戈登·奥尔波特。偏见的本质。Translated by 凌晨，后浪丨九州出版社，2020. Douban, https://book.douban.com/subject/35220441/.
