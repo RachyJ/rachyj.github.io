@@ -15,7 +15,7 @@ MVP（minimum viable product）是 Eric Ries 在《精益创业实战》中提�
 
 ![MVP](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/210613/mvp.jpeg)
 
-延伸 MVP 概念，xxx 提出了 MVD 的概念，直译大概是「最小可行日」。在我理解，大概是普通地过完一日，但回想又不会觉得是虚度的一日吧。
+延伸 MVP 概念，Rebecca 提出了 MVD 的概念，直译大概是「最小可行日」。在我理解，大概是普通地过完一日，但回想又不会觉得是虚度的一日吧。
 
 ## My MVD
 
