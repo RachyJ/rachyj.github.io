@@ -13,7 +13,7 @@ description: Minimal viable day
 
 MVP（minimum viable product）是 Eric Ries 在《精益创业实战》中提出的概念，意即「最小可行产品」—— 用最快、最简明的方式建立一个对目标客户可用的有价值的产品原型，然后通过迭代来完善细节。
 
-![MVP]()
+![MVP](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/210613/mvp.jpeg)
 
 延伸 MVP 概念，xxx 提出了 MVD 的概念，直译大概是「最小可行日」。在我理解，大概是普通地过完一日，但回想又不会觉得是虚度的一日吧。
 
@@ -23,9 +23,9 @@ MVP（minimum viable product）是 Eric Ries 在《精益创业实战》中提�
 
 1. 侍弄花草： 
 
-  ![plants](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/210613/zhizi.JPG)
+  ![plants](https://rachelblogimgs.oss-cn-hangzhou.aliyuncs.com/210613/plants.JPG)
 
-  *栀子、小雏菊和苹果薄荷*
+  *水培葡萄球风信子和郁金香*
 
   给土培植物浇水，给水培植物和瓶花换水。
 
